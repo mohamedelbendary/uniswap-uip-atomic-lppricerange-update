@@ -474,16 +474,23 @@ It is not deployable as a runtime feature for existing pools without a broader p
 
 Together, these areas will help mature the proposal into a production-grade feature aligned with Uniswap’s roadmap and contributor needs.
 
-## 🧾 Authorship Verification
+## 🧾 Signed Authorship Verification
 
 This UIP is authored by:
 
 **Mohamed ElBendary**  
 GitHub: [https://github.com/mohamedelbendary](https://github.com/mohamedelbendary)  
 Uniswap Discourse: **mbendary**  
-Ethereum address: `0xf475608bBE46cBC5E9B1d42F731b5BbfC2C27930`  
+
+**Signed Message:**
+I, Mohamed ElBendary, am the author of the Uniswap Improvement Proposal (UIP) titled “Atomic Update of Liquidity Position Price Range,” published at https://github.com/mohamedelbendary/uniswap-uip-atomic-lppricerange-update.
+
+Ethereum Address: 0xf475608bBE46cBC5E9B1d42F731b5BbfC2C27930
+
 Date: April 24, 2025
 
-_Signed message from the Ethereum address will be added._
+**Signature (Hex):**
+0x710f3ccd01751a956cb28f5aad3dc435fbdcfd1d23f5caf69f823a75e53439083b2b03f9505b98ed9f320957ba090e06af60a459e2b740cf7d37ca103bafc1a11b
+
 ## License
 This proposal is shared under CC0 1.0 Public Domain Dedication. Attribution is appreciated.
